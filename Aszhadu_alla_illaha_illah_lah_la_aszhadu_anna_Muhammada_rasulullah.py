@@ -1,7 +1,7 @@
 def if_palindrome(word: str) -> bool:
 
-    """Function thats check if any permutation of word is palindrome
-        Function counts how many difrent letters are in th word and checks if the are more than one odd letter.
+    """Function that checks if any permutation of word is palindrome
+        Function counts how many difrent letters are in th word and checks if there are more than one odd amount of letters.
 
     Parameters
     ----------
